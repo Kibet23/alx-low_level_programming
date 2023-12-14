@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * flip_bits - returns the number of bits you would need to flip to
- * 		get from one number to another
+ * get from one number to another
  * @n: unsigned long integer 1
  * @m: unsigned long integer 2
  *
